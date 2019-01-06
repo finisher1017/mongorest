@@ -1,0 +1,24 @@
+{
+  "name": "resthub",
+  "version": "1.0.0",
+  "description": "restful api",
+  "main": "index.js",
+  "scripts": {
+    "test": "testapi"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/finisher1017/mongoapi.git"
+  },
+  "author": "Jonathan Seubert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/finisher1017/mongoapi/issues"
+  },
+  "homepage": "https://github.com/finisher1017/mongoapi#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "mongoose": "^5.4.2"
+  }
+}
